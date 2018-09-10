@@ -1,0 +1,1 @@
+Provider=SQLOLEDB;Data Source=10.19.13.39,1433;Network Library=DBMSSOCN;Initial Catalog=AutomationCS;User ID=sa;Password=Start123;
